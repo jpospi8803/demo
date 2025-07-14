@@ -1,1 +1,1 @@
-Creating an Action
+Creating a Issue report template
